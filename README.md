@@ -9,7 +9,7 @@ The goal is to understand how sentiment impacts profitability, trading activity,
 - historical_data.csv: Historical trader data from Hyperliquid (trades, PnL, size, side, etc.)
 
 ## Project Structure
-- analysis.ipynb : Main analysis notebook
+- assignment.ipynb : Main analysis notebook
 - data/ : Contains the datasets
 - outputs/ : Contains generated charts and figures
 - README.md : Project description and instructions
